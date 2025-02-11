@@ -1,0 +1,3 @@
+# Module Overview: Machine AI
+
+This module introduces the fundamental concepts and techniques of Machine AI. It covers the pivotal areas of machine learning, deep learning, and neural networks, providing learners with a comprehensive understanding of how AI systems are constructed and operate. Through a series of structured lessons, students will progress from foundational principles to advanced practices in AI.
