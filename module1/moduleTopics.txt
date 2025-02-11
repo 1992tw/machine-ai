@@ -1,0 +1,6 @@
+- Introduction to Machine AI
+- Supervised Learning
+- Unsupervised Learning
+- Neural Networks
+- Deep Learning
+- AI Model Evaluation
