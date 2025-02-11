@@ -1,0 +1,5 @@
+- Understand the basics of Machine AI and its applications.
+- Learn the principles of machine learning, including supervised and unsupervised learning.
+- Gain practical knowledge of neural networks and how they are constructed.
+- Explore deep learning techniques and how they contribute to modern AI systems.
+- Develop the ability to create, train, and evaluate AI models.
